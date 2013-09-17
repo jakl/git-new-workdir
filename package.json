@@ -1,0 +1,7 @@
+{
+  "name" : "git-new-workdir",
+  "version" : "1.0.0",
+  "bin" : "./git-new-workdir",
+  "repository" : "https://github.com/jakl/git-new-workdir.git",
+  "preferGlobal" : true
+}
